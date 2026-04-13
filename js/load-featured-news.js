@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Load Featured News dari articles.json untuk index.html
  * Script ini mengganti featured news carousel dengan berita terbaru
  */

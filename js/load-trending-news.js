@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Load Trending News dari articles.json untuk index.html
  * Script ini mengganti trending news di sidebar dengan berita terbaru
  */

@@ -1,4 +1,4 @@
-// Authentication and Session Management
+﻿// Authentication and Session Management
 // File: auth.js
 
 console.log('🔐 Auth.js loaded successfully!');

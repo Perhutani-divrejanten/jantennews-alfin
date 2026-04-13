@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Load Main Carousel dari articles.json untuk index.html
  * Script ini mengganti carousel utama dengan berita terbaru dari articles.json
  */

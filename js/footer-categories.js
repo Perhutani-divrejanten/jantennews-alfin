@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', async function(){
+﻿document.addEventListener('DOMContentLoaded', async function(){
     // Skip if main.js already populated footer (avoid duplicate buttons)
     if (window && window.footerCategoriesPopulated) return;
     const footer = document.getElementById('footerCategories');
@@ -83,3 +83,4 @@ document.addEventListener('DOMContentLoaded', async function(){
         try{ window.footerCategoriesPopulated = true; }catch(e){}
     }
 });
+

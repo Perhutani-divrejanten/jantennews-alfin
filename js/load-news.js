@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Load News dari articles.json
  * Script ini otomatis populate newsContainer di news.html dengan artikel dari articles.json
  */
@@ -101,3 +101,4 @@ document.addEventListener('DOMContentLoaded', function() {
             // Fallback: keep existing hardcoded items jika JSON load gagal
         });
 });
+

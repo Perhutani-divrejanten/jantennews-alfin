@@ -1,3 +1,4 @@
+﻿
 {
   "description": "Konfigurasi untuk 34 portal berita. Edit nilai di bawah sesuai kebutuhan dan jalankan generate-sites.js",
   "basePath": "../",
@@ -12,7 +13,7 @@
       "colors": {
         "primary": "#1E3A8A",
         "dark": "#0B1F3A",
-        "secondary": "#31404B"
+        "secondary": "#1A5E6E"
       }
     },
     {
@@ -413,3 +414,4 @@
     }
   ]
 }
+
